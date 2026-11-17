@@ -254,15 +254,3 @@ Example Markdown:
 ![Website 2 GitOps Update](screenshots/website2-gitops-update.png)
 ![Website 3](screenshots/website3.png)
 ```
-
-## Repository
-
-GitHub: https://github.com/pranitha-cloud-portfolio/k8s-handon-repo
-
-Project directory: `argocd-ingress-helm-gitops`
-
-## Notes
-
-This is a hands-on learning project. The NGINX Ingress Controller project has been retired, so this implementation should not be considered a production-ready deployment. For new production environments, evaluate a maintained ingress solution and verify compatibility with the Kubernetes version in use.
-
-TLS, authentication, and production security hardening are outside the scope of this lab.
